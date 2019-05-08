@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Diagrammer")]
-[assembly: AssemblyDescription("A simple diagram maker created as part of a university course.")]
+[assembly: AssemblyTitle("Diagrammer.Api")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("KubSU")]
-[assembly: AssemblyProduct("Diagrammer")]
-[assembly: AssemblyCopyright("Copyright ©Soarex16  2019")]
-[assembly: AssemblyTrademark("Diagrammer")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Diagrammer.Api")]
+[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("78bd0dd4-7cb3-48a5-bd6c-f396fad9ee1e")]
+[assembly: Guid("e1fb47cf-d50c-4faf-81dc-a9abd224d3e1")]
 
 // Version information for an assembly consists of the following four values:
 //

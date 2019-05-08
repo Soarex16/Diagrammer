@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagrammer", "Diagrammer\Diagrammer.csproj", "{78BD0DD4-7CB3-48A5-BD6C-F396FAD9EE1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B5F1D378-BF91-4BAC-A335-6736F32C7EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagrammer.Api", "Diagrammer.Api\Diagrammer.Api.csproj", "{E1FB47CF-D50C-4FAF-81DC-A9ABD224D3E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{78BD0DD4-7CB3-48A5-BD6C-F396FAD9EE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78BD0DD4-7CB3-48A5-BD6C-F396FAD9EE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78BD0DD4-7CB3-48A5-BD6C-F396FAD9EE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F1D378-BF91-4BAC-A335-6736F32C7EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F1D378-BF91-4BAC-A335-6736F32C7EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F1D378-BF91-4BAC-A335-6736F32C7EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F1D378-BF91-4BAC-A335-6736F32C7EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1FB47CF-D50C-4FAF-81DC-A9ABD224D3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FB47CF-D50C-4FAF-81DC-A9ABD224D3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FB47CF-D50C-4FAF-81DC-A9ABD224D3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FB47CF-D50C-4FAF-81DC-A9ABD224D3E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
